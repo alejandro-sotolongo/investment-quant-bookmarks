@@ -27,6 +27,6 @@ Free resources for quantitative investing
 - [Factor Momentum](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3014521)
 
 ## Blogs
-- (https://www.r-bloggers.com/)
-- (https://quantocracy.com/)
-- (https://rweekly.org/)
+- https://www.r-bloggers.com
+- https://quantocracy.com
+- https://rweekly.org
