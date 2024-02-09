@@ -18,6 +18,7 @@ Free resources for quantitative investing
 - [Skewness and Kurtosis](https://rpc.cfainstitute.org/en/research/financial-analysts-journal/2011/the-impact-of-skewness-and-fat-tails-on-the-asset-allocation-decision)
 - [Stable Distributions](https://edspace.american.edu/jpnolan/wp-content/uploads/sites/1720/2020/09/Chap1.pdf)
 - [Absorption Ratio](https://web.mit.edu/finlunch/Fall10/PCASystemicRisk.pdf)
+- [Clustering Around Latents](https://journal.r-project.org/archive/2015/RJ-2015-026/RJ-2015-026.pdf)
 
 ### Factors
 - [Ken French Data Library](https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html)
