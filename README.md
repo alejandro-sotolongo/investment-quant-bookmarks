@@ -11,7 +11,7 @@ Free resources for quantitative investing
 ## Research Papers
 ### Portfolio Optimization
 - [Critical Line Algo](https://www.hudsonbaycapital.com/documents/FG/hudsonbay/research/599440_paper.pdf)
-- [Constrained Risk Budgets](https://www.hudsonbaycapital.com/documents/FG/hudsonbay/research/599440_paper.pdf)
+- [Constrained Risk Budgets](http://www.thierry-roncalli.com/download/Constrained_Risk_Budgeting.pdf)
 - [Risk Parity](http://www.thierry-roncalli.com/RiskParity.html#)
 
 ### Factors
